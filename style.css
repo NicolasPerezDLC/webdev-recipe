@@ -10,5 +10,8 @@ hr {
     background-color: rgb(255, 223, 223)
 }
 body {
-    background-image: url(https://cdn.wallpapersafari.com/58/25/j9Zye2.jpg)
+    background: url(https://cdn.wallpapersafari.com/58/25/j9Zye2.jpg);
+  background-repeat: no-repeat;
+  background-size: 1920px;
+    
 }
